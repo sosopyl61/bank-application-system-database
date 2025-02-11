@@ -1,0 +1,25 @@
+2025-02-11 17:52:49 [ERROR] ОШИБКА: отношение "accounts" не существует
+  Позиция: 13
+2025-02-11 17:52:49 [ERROR] ОШИБКА: отношение "accounts" не существует
+  Позиция: 13
+2025-02-11 17:52:49 [ERROR] Cannot invoke "by.rymtsov.database_config.DatabaseService.getConnection()" because "this.databaseService" is null
+2025-02-11 17:53:26 [ERROR] ОШИБКА: отношение "accounts" не существует
+  Позиция: 13
+2025-02-11 17:53:26 [ERROR] ОШИБКА: отношение "accounts" не существует
+  Позиция: 13
+2025-02-11 17:53:26 [ERROR] Cannot invoke "by.rymtsov.database_config.DatabaseService.getConnection()" because "this.databaseService" is null
+2025-02-11 17:53:39 [ERROR] ОШИБКА: отношение "accounts" не существует
+  Позиция: 13
+2025-02-11 18:48:44 [ERROR] Cannot invoke "by.rymtsov.database_config.DatabaseService.getConnection()" because "this.databaseService" is null
+2025-02-11 18:50:49 [ERROR] Cannot invoke "by.rymtsov.database_config.DatabaseService.getConnection()" because "this.databaseService" is null
+2025-02-11 18:51:20 [ERROR] Cannot invoke "by.rymtsov.database_config.DatabaseService.getConnection()" because "this.databaseService" is null
+2025-02-11 18:53:34 [ERROR] Sender does not have enough money.
+2025-02-11 18:55:41 [ERROR] ОШИБКА: столбец "account_number" в таблице "transactions" не существует
+  Позиция: 43
+2025-02-11 18:55:57 [ERROR] Sender does not have enough money.
+2025-02-11 18:56:50 [ERROR] Sender does not have enough money.
+2025-02-11 18:57:12 [ERROR] ОШИБКА: столбец "account_number" в таблице "transactions" не существует
+  Позиция: 43
+2025-02-11 18:59:04 [ERROR] ОШИБКА: столбец "account_number" в таблице "transactions" не существует
+  Позиция: 43
+2025-02-11 19:01:35 [ERROR] Не указано значение для параметра 4.
