@@ -28,7 +28,7 @@ Implement logging of operations in a separate `transactions` table, where inform
 
 ## Database Structure
 
-### accounts Table
+### Accounts table:
 
 | Field           | Data Type         | Description                       |
 |-----------------|-------------------|-----------------------------------|
@@ -36,7 +36,7 @@ Implement logging of operations in a separate `transactions` table, where inform
 | account_number  | VARCHAR(100)        | Account number (unique)           |
 | balance         | DECIMAL     | Account balance                   |
 
-### transactions Table
+### Transactions table:
 
 | Field           | Data Type         | Description                        |
 |-----------------|-------------------|------------------------------------|
